@@ -16,7 +16,8 @@
 ![home](https://github.com/KarnKeraliya/personal-expense-tracker/assets/140074942/a0c528e4-ce1c-4890-87cb-509b3863cbba)
 
 ### Dashboard
-![Uploading dash.png…]()
+![dash](https://github.com/KarnKeraliya/personal-expense-tracker/assets/140074942/cc3dc11a-4b64-4d9d-96c0-c36267470b13)
+
 
 ### Add Expense page
 ![add](https://github.com/KarnKeraliya/personal-expense-tracker/assets/140074942/bd6f2107-9a6e-459c-8963-8f16ba9b9dad)
